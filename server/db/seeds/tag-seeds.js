@@ -26,7 +26,7 @@ exports.seed = async function (knex) {
       id: 3,
       name: '<body>',
       description:
-        'Look at the curvature of that body. The warm and calming one, with a sense of serenity and order admidst chaos',
+        'The warm and calming one, with a sense of serenity and order admidst chaos',
       description_id: 3,
       vote_id: 3927,
     },
@@ -34,7 +34,7 @@ exports.seed = async function (knex) {
       id: 4,
       name: '<img>',
       description:
-        "Eye catching, always turning heads and getting double takes. The visual one, always looking sharp and catching everyone's eye",
+        "The visual one, always looking sharp and catching everyone's eye",
       description_id: 4,
       vote_id: 4990,
     },
@@ -82,7 +82,7 @@ exports.seed = async function (knex) {
       id: 10,
       name: '<form>',
       description:
-        'Wow! Look at that form. The collaborative one. Working with others to achieve common goals and make things happen.',
+        'The collaborative one. Working with others to achieve common goals and make things happen.',
       description_id: 10,
       vote_id: 3987,
     },
